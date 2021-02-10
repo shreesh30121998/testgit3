@@ -1,3 +1,4 @@
 Testfile2 - first line.
 New line in develop.
 Third line by dev 2.
+Third line.
